@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.0.5] - 2026-05-15
+
+### Internal
+
+- Add explicit workflow permissions.
+- Bumped dependencies and used GH actions
+
 ## [0.0.4] - 2026-03-27
 
 ### Fixed
